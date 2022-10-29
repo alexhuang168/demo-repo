@@ -1,3 +1,3 @@
 # Demo
 
-Some configuration.
+Some configuration!
